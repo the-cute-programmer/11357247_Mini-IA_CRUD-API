@@ -72,15 +72,16 @@ This project is an Electronic Medical Record (EMR) system implemented using Node
 
    ```bash
    git clone https://github.com/your-username/medical-record-system.git
+   ```
 
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 cd repository folder on your computer
 
-Install dependencies:
+3. Install dependencies:
 npm install
 
-Usage
+## Usage
 Start the server:
 node index.js
 
